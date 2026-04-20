@@ -11,5 +11,5 @@
   [!["X"](https://img.shields.io/twitter/follow/POGYaz?label=Follow%20me)](https://twitter.com/POGYaz)
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/yazanalkamal/)
   
-  ![POGYaz's Stats](https://github-readme-stats.vercel.app/api?username=POGYaz&theme=dark&show_icons=true&hide_border=false&count_private=true)
+  ![POGYaz's Stats](https://github-readme-stats.vercel.app/api?username=yazanalkamal&theme=dark&show_icons=true&hide_border=false&count_private=true)
 <div />
